@@ -1,7 +1,7 @@
 ## TEXT TO FILES         
   
 ## CMD TO RUN THIS CODE: 
-* npm install    
+* npm install      
 * npm run dev        
           
 ## Demo Link :  
